@@ -1,42 +1,58 @@
 <h1 align="center">Hi, I'm Nandini 👋</h1>
-<h3 align="center">BTech IT Student | Software Developer | Data Analyst Enthusiast</h3>
+<h3 align="center">BTech IT Student · Software Developer · Data Analyst</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nandini905"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:YOUR_REAL_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-REAL-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nandini905">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/YOUR-LEETCODE-ID">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 BTech in Information Technology (Final Year)
+- 🎓 B.Tech in Information Technology — Final Year
 - 🔭 Currently building: **Deep Packet Inspection Engine** (C++ + Java)
-- 🌱 Learning: System Design, Cloud Architecture, Advanced DSA
+- 🌱 Exploring: System Design · Cloud Architecture · Advanced DSA
 - 🎯 Targeting: **Software Developer** and **Data Analyst** roles
-- 💬 Ask me about: Java, Python, MERN Stack, Network Security
+- 💬 Ask me about: Java · Python · MERN Stack · Network Security
+- 📍 India
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Web & Frameworks:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Tools & Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Core CS Concepts:**
+`Data Structures & Algorithms` · `DBMS` · `Computer Networks` · `Operating Systems` · `OOP` · `Socket Programming`
 
 ---
 
@@ -44,27 +60,33 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔍 Deep Packet Inspection Engine](https://github.com/Nandini905/deep-packet-inspection-engine) | Real-time network traffic analyzer that classifies protocols at Layer 7 | C++, Java, libpcap |
-| [💰 Expense Tracker](https://github.com/Nandini905/CodeAlpha_Project_Expense-Tracker) | Full-stack expense management with visual analytics | HTML, CSS, JavaScript |
-| [📊 Social Media Dashboard](https://github.com/Nandini905/CodeAlpha_Project_Social-media-dashboard) | Responsive analytics dashboard UI | HTML, CSS, JavaScript |
+| [🔐 Deep Packet Inspection Engine](https://github.com/Nandini905/deep-packet-inspection-engine) | Real-time network traffic analyzer with Layer 7 protocol classification and anomaly detection | C++, Java, libpcap |
+| [💰 Expense Tracker](https://github.com/Nandini905/expense-tracker) | Personal finance manager with category filters and visual analytics | HTML, CSS, JavaScript |
+| [📊 Social Media Dashboard](https://github.com/Nandini905/social-media-dashboard) | Responsive analytics dashboard with dark/light mode toggle | HTML, CSS, JavaScript |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandini905&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini905&layout=compact&theme=tokyonight" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandini905&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini905&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini905&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
 
-### 🏆 Achievements
-- 🏅 CodeAlpha Web Development Internship — Completed 3 projects
-- 📚 Relevant Coursework: DSA, DBMS, Computer Networks, OS, OOP
+### 🏆 Achievements & Certifications
+
+- 🏅 **CodeAlpha Web Dev Internship** — Delivered 3 production-ready projects
+- 🧠 **LeetCode / GFG** — Solved [X]+ DSA problems  ← fill this in
+- 📜 [Your Certification Name] — Platform  ← add any NPTEL/Coursera/Udemy cert
+- 🎓 Relevant Coursework: DSA · DBMS · Computer Networks · OS · OOP
 
 ---
 
 <p align="center">
-  <i>"Building systems that matter, one commit at a time."</i>
+  <img src="https://komarev.com/ghpvc/?username=Nandini905&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
