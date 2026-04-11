@@ -81,8 +81,10 @@
 ### 🏆 Achievements & Certifications
 
 - 🏅 **CodeAlpha Web Dev Internship** — Delivered 3 production-ready projects
-- 🧠 **LeetCode / GFG** — Solved [X]+ DSA problems  ← fill this in
-- 📜 [Your Certification Name] — Platform  ← add any NPTEL/Coursera/Udemy cert
+- 🧠 **LeetCode / GFG** — Solved [100]+ DSA problems  ← fill this in
+- 📜 Java certification — Geeks for Geeks 
+- Python certification - HackerRank 
+- Generative AI - Coursera
 - 🎓 Relevant Coursework: DSA · DBMS · Computer Networks · OS · OOP
 
 ---
