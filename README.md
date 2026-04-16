@@ -2,7 +2,7 @@
 <h3 align="center">BTech IT Student · Software Developer · Data Analyst</h3>
 
 <p align="center">
-  <a href="nandinipathak877@gmail.com">
+  <a href="mailto:nandinipathak877@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nandinipathak-tech/">
