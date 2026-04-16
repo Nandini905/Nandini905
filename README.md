@@ -61,7 +61,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔐 Deep Packet Inspection Engine](https://github.com/Nandini905/deep-packet-inspection-engine) | Real-time network traffic analyzer with Layer 7 protocol classification and anomaly detection | C++, Java, libpcap |
+| [🔐 Deep Packet Inspection Engine](https://github.com/Nandini905/dpi-engine/) | Real-time network traffic analyzer with Layer 7 protocol classification and anomaly detection | C++, Java, libpcap |
 | [💰 Expense Tracker](https://github.com/Nandini905/expense-tracker) | Personal finance manager with category filters and visual analytics | HTML, CSS, JavaScript |
 | [📊 Social Media Dashboard](https://github.com/Nandini905/social-media-dashboard) | Responsive analytics dashboard with dark/light mode toggle | HTML, CSS, JavaScript |
 
