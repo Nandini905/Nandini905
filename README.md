@@ -57,13 +57,13 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🔐 Deep Packet Inspection Engine](https://github.com/Nandini905/dpi-engine/) | Real-time network traffic analyzer with Layer 7 protocol classification and anomaly detection | C++, Java, libpcap |
-| [💰 Expense Tracker](https://github.com/Nandini905/expense-tracker) | Personal finance manager with category filters and visual analytics | HTML, CSS, JavaScript |
-| [📊 Social Media Dashboard](https://github.com/Nandini905/social-media-dashboard) | Responsive analytics dashboard with dark/light mode toggle | HTML, CSS, JavaScript |
+| Project | What It Solves | Tech |
+|---------|---------------|------|
+| 📡 [UPI Offline Mesh](https://github.com/Nandini905/UPI_without_Internet) | Offline payment routing through Bluetooth mesh — hybrid RSA+AES-GCM encryption, atomic idempotency, exactly-once settlement | Java, Spring Boot, Cryptography |
+| 🔬 [DPI Engine](https://github.com/Nandini905/DPI-engine) | Network packet analyzer with TLS SNI extraction and multi-threaded fast-path processing | C++17, CMake, Threading |
+| 🧠 [VectorDB](https://github.com/Nandini905/Your_OWN_Ai) | Vector database from scratch — HNSW, KD-Tree, Brute Force side-by-side with RAG pipeline | C++, Ollama, REST API |
 
 ---
 
@@ -82,7 +82,7 @@
 ### 🏆 Achievements & Certifications
 
 - 🏅 **CodeAlpha Web Dev Internship** — Delivered 3 production-ready projects
-- 🧠 **LeetCode / GFG** — Solved 100+ DSA problems  ← fill this in
+- 🧠 **LeetCode / GFG** — Solved 100+ DSA problems
 - 📜 Java certification — Geeks for Geeks 
 - Python certification - HackerRank 
 - Generative AI - Coursera
