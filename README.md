@@ -88,7 +88,7 @@
 - Generative AI - Coursera
 - 🎓 Relevant Coursework: DSA · DBMS · Computer Networks · OS · OOP
 
----
+--
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nandini905&color=blue&style=flat-square&label=Profile+Views"/>
