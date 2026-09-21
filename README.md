@@ -26,7 +26,8 @@
 - 🎯 Targeting: **Software Developer** and **Data Analyst** roles
 - 💬 Ask me about: Java · Python · MERN Stack · Network Security
 - 📍 India
-- 🚀 Open to full-time roles and internships from May-2026
+- * Intern at Times Internet Limited
+- 🚀 Open to full-time roles
 
 ---
 
