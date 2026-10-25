@@ -1,96 +1,48 @@
-<h1 align="center">Hi, I'm Nandini 👋</h1>
-<h3 align="center">BTech IT Student · Software Developer · Data Analyst</h3>
+<h1 align="center">Nandini Pathak</h1>
+<p align="center"><b>Software Engineer · Backend & Systems</b><br>
+Java · C++ · Python · Spring Boot</p>
 
 <p align="center">
-  <a href="mailto:nandinipathak877@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nandinipathak-tech/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Nandini905">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Pathak_NANDINI/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <a href="mailto:nandinipathak877@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nandinipathak-tech/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Pathak_NANDINI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### About
+B.Tech IT '26 graduate (CGPA 9.06) who builds systems from the ground up: a multithreaded packet-inspection engine, an offline payment mesh with end-to-end encryption, and a vector database with HNSW. I care about correctness, concurrency and clean APIs.
 
-- 🎓 B.Tech in Information Technology — Final Year
-- 🔭 Currently building: **Deep Packet Inspection Engine** (C++ + Java)
-- 🌱 Exploring: System Design · Cloud Architecture · Advanced DSA
-- 🎯 Targeting: **Software Developer** and **Data Analyst** roles
-- 💬 Ask me about: Java · Python · MERN Stack · Network Security
-- 📍 India
-- * Intern at Times Internet Limited
-- 🚀 Open to full-time roles
+- 💼 Product Management Intern @ Times Internet (Jun 2026 – present)
+- 🧑‍💻 Web Development Intern @ Snap Scale Media (Oct – Dec 2025)
+- 🧩 300+ DSA problems solved
+- 📍 Lucknow, India
+- 🎯 **Open to Software Engineer roles (Backend / Systems)**
 
----
+### Tech Stack
+| | |
+|---|---|
+| **Languages** | Java, C++17, Python, JavaScript, TypeScript, SQL |
+| **Backend** | Spring Boot, REST APIs, JUnit 5, Node.js, Express |
+| **Frontend** | React |
+| **Databases** | MySQL, MongoDB |
+| **Core CS** | DSA, DBMS, Computer Networks, OS, Concurrency |
+| **Tools** | Git, CMake, Linux |
 
-### 🛠️ Tech Stack
+### Featured Projects
+| Project | What it does | Stack |
+|---|---|---|
+| 🔬 [**dpi-engine**](https://github.com/Nandini905/dpi-engine) | Multithreaded deep packet inspection: byte-level TCP/IP parsing, TLS SNI extraction, per-flow app classification and rule-based blocking. [RESULT: e.g. X packets/sec on Y threads] | C++17, CMake |
+| 📡 [**upi-offline-mesh**](https://github.com/Nandini905/UPI_without_Internet) | Offline UPI-style payments routed over a Bluetooth mesh with hybrid RSA + AES-GCM encryption, atomic idempotency and exactly-once settlement. | Java, Spring Boot |
+| 🧠 [**vectordb-rag-engine**](https://github.com/Nandini905/Your_OWN_Ai) | Vector database built from scratch with HNSW, KD-Tree and brute force benchmarked side by side, plus a local RAG pipeline. | C++, Ollama, REST |
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Also: [**Brightmenti**](https://github.com/Nandini905/Brightmenti), a deployed agency web platform (React 19, TypeScript, Tailwind, Vite).
 
-**Web & Frameworks:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Achievements
+- 📄 Co-authored arXiv preprint: *zero-trust framework for AWS* → [ARXIV LINK]
+- 🧩 300+ DSA problems solved ([LeetCode](https://leetcode.com/u/Pathak_NANDINI/))
+- 🎓 B.Tech IT, AKTU — CGPA 9.06 / 10
+- 📜 HackerRank Python (Basic) · Accenture Data Analytics & Visualization (Forage) · Coursera Generative AI
 
-**Tools & Databases:**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-
-**Core CS Concepts:**
-`Data Structures & Algorithms` · `DBMS` · `Computer Networks` · `Operating Systems` · `OOP` · `Socket Programming`
-
----
-
-## 🚀 Featured Projects
-
-| Project | What It Solves | Tech |
-|---------|---------------|------|
-| 📡 [UPI Offline Mesh](https://github.com/Nandini905/UPI_without_Internet) | Offline payment routing through Bluetooth mesh — hybrid RSA+AES-GCM encryption, atomic idempotency, exactly-once settlement | Java, Spring Boot, Cryptography |
-| 🔬 [DPI Engine](https://github.com/Nandini905/DPI-engine) | Network packet analyzer with TLS SNI extraction and multi-threaded fast-path processing | C++17, CMake, Threading |
-| 🧠 [VectorDB](https://github.com/Nandini905/Your_OWN_Ai) | Vector database from scratch — HNSW, KD-Tree, Brute Force side-by-side with RAG pipeline | C++, Ollama, REST API |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandini905&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini905&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🏅 **CodeAlpha Web Dev Internship** — Delivered 3 production-ready projects
-- 🧠 **LeetCode / GFG** — Solved 100+ DSA problems
-- 📜 Java certification — Geeks for Geeks 
-- Python certification - HackerRank 
-- Generative AI - Coursera
-- 🎓 Relevant Coursework: DSA · DBMS · Computer Networks · OS · OOP
-
---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nandini905&color=blue&style=flat-square&label=Profile+Views"/>
-</p>
+### Let's talk
+Best reached by [email](mailto:nandinipathak877@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nandinipathak-tech/).
